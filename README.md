@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**Chiloven945/Chiloven945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Hi! I'm Chiloven945**
 
-Here are some ideas to get you started:
+> 幻想惨死于现实麾下，爱是墓志铭。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Nicknames
+  - ClovenBugle9455
+  - Cloven
+  - ChilovenBustiangle / ΧιλόβενΜπουστίανγλε
+  - Mackenzie
+
+## Things About Me
+  - :feet: Furry
+  - :rainbow_flag: Pansexual
+  - :video_game: Favorite Game: Minecraft
+  - :globe_with_meridians: Languages Currently Using:
+    - 简体中文
+    - 繁體中文
+    - English
+    - Ελληνικά (Learning LOL)
+  - :bust_in_silhouette: Personality: infp-t
+  - :world_map: Location: Chongqing, PRC
+  - :computer: Interest in IT
+
+## Social Media
+  - [Bilibili](https://space.bilibili.com/630677026)
+  - [Bluesky](https://chiloven.bsky.social)
+  - [Pixiv](https://www.pixiv.net/users/100118956)
+  - [Weibo](https://weibo.com/u/7497491648)
