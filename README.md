@@ -5,21 +5,20 @@
 
 ## Nicknames
   - ClovenBugle9455
-  - Cloven
   - ChilovenBustiangle / ΧιλόβενΜπουστίανγλε
   - Mackenzie
 
 ## Things About Me
   - :feet: Furry
   - :rainbow_flag: Pansexual
-  - :video_game: Favorite Game: Minecraft
+  - :video_game: Minecraft
   - :globe_with_meridians: Languages Currently Using:
     - 简体中文
     - 繁體中文
     - English
     - Ελληνικά (Learning LOL)
-  - :bust_in_silhouette: Personality: infp-t
-  - :world_map: Location: Chongqing, PRC
+  - :bust_in_silhouette: infp-t
+  - :world_map: Chongqing, PRC
   - :computer: Interest in IT
 
 ## Social Media
@@ -27,3 +26,5 @@
   - [Bluesky](https://chiloven.bsky.social)
   - [Pixiv](https://www.pixiv.net/users/100118956)
   - [Weibo](https://weibo.com/u/7497491648)
+  - [Facebook](https://www.facebook.com/profile.php?id=100093362991435)
+  - [QQ](https://qm.qq.com/q/aivFy2XQcw)
