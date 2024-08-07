@@ -9,7 +9,7 @@
 
 <h2>Aliases</h2>
 
-  - Cloven(Bugle)(9455)
+  - Cloven(Bugle)(9455) / Κλόβεν(Μπόυγλε)(9455)
   - Chiloven(Bustiangle) / Χιλόβεν(Μπουστίανγλε)
   - Mackenzie
 
