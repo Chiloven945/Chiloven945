@@ -7,6 +7,8 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Chiloven945&count_private=true&show_icons=true&theme=tokyonight" alt="chiloven945" /></p>
 
+Hi! Very surprisingly you have found my GitHub personal page! There is nothing much to talk about. If you are interested in communication with me, just suit your self. Just make a passing remark, for some personal reason you might experience some strange sensation during the interaction. I apologize for that sincerely... Hoping you will make me do better! tho...
+
 <h2>Aliases</h2>
 
   - Cloven(Bugle)(9455) / Κλόβεν(Μπόυγλε)(9455)
@@ -25,7 +27,7 @@
     - Ελληνικά (Learning)
   - :bust_in_silhouette: Personality is infp-t
   - :world_map: Located at Chongqing, PRC
-  - :computer: Interest in IT, trying to learn Java, VB.NET and Rust by myself
+  - :computer: Interest in IT, trying to learn Java and VB.NET by myself
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=chiloven945&theme=tokyonight" alt="chiloven945" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiloven945&layout=compact&theme=tokyonight" alt="chiloven945" /></p>
@@ -33,6 +35,7 @@
 <h2>Social Media</h2>
 
   - Bilibili: [Chiloven945](https://space.bilibili.com/630677026)
+  - X: [Chiloven945](https://x.com/chiloven945)
   - Bluesky: [Chiloven945🏳️‍🌈](https://chiloven.bsky.social)
   - Pixiv: [Chiloven945](https://www.pixiv.net/users/100118956)
   - Weibo: [Chiloven_945](https://weibo.com/u/7497491648)
