@@ -46,8 +46,6 @@
   - X: [Chiloven945](https://x.com/chiloven945)
   - Bluesky: [Chiloven945🏳️‍🌈](https://chiloven.bsky.social)
   - Pixiv: [Chiloven945](https://www.pixiv.net/users/100118956)
-  - Weibo: [Chiloven_945](https://weibo.com/u/7497491648)
-  - Facebook: [Mackenzie](https://www.facebook.com/profile.php?id=100093362991435)
   - QQ: [1163513600](https://qm.qq.com/q/aivFy2XQcw)
 
 [https://linktr.ee/chiloven](https://linktr.ee/chiloven)
