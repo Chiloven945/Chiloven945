@@ -1,7 +1,7 @@
 
 <h2>幻想慘死于現實麾下，愛是墓誌銘。</h2>
 
-> Listening: [rejecter - nothing,nowhere.](https://open.spotify.com/track/4IPKfv5dbRdfQujHMtsPcc?si=de1eff9b621b4918)
+> Listening: [Watcher - Aaron Cherof](https://soundcloud.com/aaroncherof/watcher)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiloven945&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chiloven945" /> </p>
 
