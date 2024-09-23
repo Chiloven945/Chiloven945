@@ -15,13 +15,14 @@
 <h3>You Can Call Me...</h3>
 
   - ***ClovenBugle***(9455) [^1]
-  - ***Chiloven***(Bustiangle)***945*** [^2]
+  - ***Chiloven***(Bustiangle)***945***(5) [^2]
   - Mackenzie
 
 <h3>FYI...</h3>
 
   - :feet: Furry
   - :rainbow_flag: Sexual orientation is pansexual
+  - :people_hugging: Relationship Status: Taken
   - :video_game: Favorite video game is Minecraft
   - :globe_with_meridians: Languages Preferred:
     - 简体中文 (Native)
