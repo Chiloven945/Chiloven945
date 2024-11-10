@@ -1,7 +1,7 @@
 
 <h2>幻想慘死于現實麾下，愛是墓誌銘。</h2>
 
-> Listening: [you! - LANY](https://soundcloud.com/thisislany/you)
+> Listening: [SCAREDY CAT - 7co](https://open.spotify.com/track/4YnmSNxX4KJMWhI1VEfEhv?si=7a0fd684bdaa4a66)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiloven945&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chiloven945" /> </p>
 
