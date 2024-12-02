@@ -1,5 +1,5 @@
 
-<h2>幻想慘死于現實麾下，愛是墓誌銘。</h2>
+<h2>幻想慘死於現實麾下，愛昰墓誌銘。</h2>
 
 > Listening: [SCAREDY CAT - 7co](https://open.spotify.com/track/4YnmSNxX4KJMWhI1VEfEhv?si=7a0fd684bdaa4a66)
 
