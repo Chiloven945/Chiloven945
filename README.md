@@ -1,14 +1,14 @@
 
 <h2>幻想慘死於現實麾下，愛昰墓誌銘。</h2>
 
-> Listening: [SCAREDY CAT - 7co](https://open.spotify.com/track/4YnmSNxX4KJMWhI1VEfEhv?si=7a0fd684bdaa4a66)
+> Listening: [Endearment (A Song for You) - Dream, Ivory](https://soundcloud.com/dreamivory/endearment-a-song-for-you?in=dreamivory/sets/dream-ivory-ep&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiloven945&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chiloven945" /> </p>
 
 > [!NOTE]
 > Hi👋! Very surprisingly you have found my GitHub personal page! There is nothing much to talk about. Anyhow, if you are interested in communication with me, just suit your self. Just make a passing remark, for some personal reason you might experience some strange sensation during the interaction. I apologize for my offence sincerely... Hoping we will make us do better! tho...
 >
-> 嗨！很惊讶地你找到了我的 GitHub 个人页面！按理来说来人应鲜少，这也没什么可说的。无论如何，如果你想要和我交流或者聊聊天，欢迎打扰。顺带一提，因为个人原因在交谈过程中你可能会感受到不适，敬请谅解…… 希望能使我们变得更好！吧……
+> 嗨👋！很惊讶地你找到了我的 GitHub 个人页面！按理来说来人应鲜少，这也没什么可说的。无论如何，如果你想要和我交流或者聊聊天，欢迎打扰。顺带一提，因为个人原因在交谈过程中你可能会感受到不适，敬请谅解…… 希望能使我们变得更好！吧……
 
 ---
 
@@ -22,20 +22,20 @@
 
   - :feet: Furry
   - :rainbow_flag: Sexual orientation is pansexual
-  - :people_hugging: Relationship Status: Taken
   - :video_game: Favorite video game is Minecraft
   - :globe_with_meridians: Languages Preferred:
     - 简体中文 (Native)
     - 繁體中文 (Understandable)
     - English (Well-used)
     - Ελληνικά (Learning)
+    - 日本語 (これは何ですか？)
   - :bust_in_silhouette: Personality is infp-t
   - :world_map: Located at Chongqing, PRC
 
 <h3>Things That I'm Trying to Do...</h3>
   
   - 🧭 Translate some Java mod to Simplified Chinese and Traditional Chinese | 为一些 Java 版的模组制作翻译文件；
-  - 💻 Trying to learn Java and VB.NET | 尝试学习 Java 与 VB.NET；
+  - 💻 Trying to learn Java, Kotlin, and VB.NET | 尝试学习 Java、Kotlin 与 VB.NET；
   - 📓 Write some novels as the form I like | 写一些我喜欢题材的小说；
   - ❔ Expand the breadth of my knowledge base | 扩充自己知识面的广度；
   - 🏛️ Learning Greek | 学习希腊语；[^3]
