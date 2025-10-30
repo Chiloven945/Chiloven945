@@ -8,8 +8,6 @@
 > [!NOTE]
 > 你好，有缘人。
 
----
-
 你可以在我的网站介绍页了解更多：[https://chiloven.top/about/](https://chiloven.top/about/)
 
 You can know me more at the about page of my website: [https://chiloven.top/en/about/](https://chiloven.top/en/about/)
