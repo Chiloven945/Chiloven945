@@ -6,9 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiloven945&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chiloven945" /> </p>
 
 > [!NOTE]
-> Hi👋! Very surprisingly you have found my GitHub personal page! There is nothing much to talk about. Anyhow, if you are interested in communication with me, just suit your self. Just make a passing remark, for some personal reason you might experience some strange sensation during the interaction. I apologize for my offence sincerely... Hoping we will make us do better! tho...
->
-> 嗨👋！很惊讶地你找到了我的 GitHub 个人页面！按理来说来人应鲜少，这也没什么可说的。无论如何，如果你想要和我交流或者聊聊天，欢迎打扰。顺带一提，因为个人原因在交谈过程中你可能会感受到不适，敬请谅解…… 希望能使我们变得更好！吧……
+> 你好，有缘人。
 
 ---
 
