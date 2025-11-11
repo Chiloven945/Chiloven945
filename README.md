@@ -14,5 +14,19 @@ You can know me more at the about page of my website: [https://chiloven.top/en/a
 
 ---
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Chiloven945&count_private=true&show_icons=true&theme=tokyonight" alt="chiloven945" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiloven945&layout=compact&theme=tokyonight" alt="chiloven945" /></p>
+<!-- Side-by-side metrics cards -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="./github.svg">
+        <img src="./github.svg" alt="GitHub Metrics" width="420">
+      </a>
+    </td>
+    <td align="center">
+      <a href="./social.svg">
+        <img src="./social.svg" alt="Social feeds (Music · RSS · Steam)" width="420">
+      </a>
+    </td>
+  </tr>
+</table>
+
