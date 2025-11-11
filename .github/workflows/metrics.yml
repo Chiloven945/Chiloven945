@@ -35,14 +35,6 @@ jobs:
           # 🈷️ Languages activity
           plugin_languages: yes
 
-          # 📰 Recent activity
-          plugin_activity: yes
-
-          # 📌 Starred topics
-          plugin_topics: yes
-          plugin_topics_mode: labels
-          plugin_topics_sort: random
-
           # 🎭 Comment reactions
           plugin_reactions: yes
           
@@ -52,12 +44,12 @@ jobs:
       - name: Social feeds (social.svg)
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_SECRET }}
+          token: NOT_NEEDED
           filename: social.svg
 
           user: Chiloven945
-          template: classic
           base: ""
+          base_skip: yes
           config_timezone: Asia/Chongqing
 
           # 🎼 Music (Spotify)
