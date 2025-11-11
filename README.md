@@ -14,19 +14,21 @@ You can know me more at the about page of my website: [https://chiloven.top/en/a
 
 ---
 
-<!-- Side-by-side metrics cards -->
-<table>
-  <tr>
-    <td align="center">
-      <a href="./github.svg">
-        <img src="./github.svg" alt="GitHub Metrics" width="420">
-      </a>
-    </td>
-    <td align="center">
-      <a href="./social.svg">
-        <img src="./social.svg" alt="Social feeds (Music · RSS · Steam)" width="420">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="margin:0 auto; border-collapse:collapse;">
+    <tr>
+      <td valign="top" align="center" style="padding:0 8px;">
+        <a href="./github.svg">
+          <img src="./github.svg" alt="GitHub Metrics" width="420">
+        </a>
+      </td>
+      <td valign="top" align="center" style="padding:0 8px;">
+        <a href="./social.svg">
+          <img src="./social.svg" alt="Social feeds" width="420">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
