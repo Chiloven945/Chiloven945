@@ -6,9 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiloven945&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chiloven945" /> </p>
 
 > [!NOTE]
-> 你好，有缘人。
+> 你好，有缘人。Hi.
+> 
 > 你可以叫我 Chiloven945。如有琐事请通过电子邮箱 [clovenbugle@outlook.com](mailto:clovenbugle@outlook.com) 联系我。
-> Hi.
+> 
 > You can call me Chiloven945. Contact me via email [clovenbugle@outlook.com](mailto:clovenbugle@outlook.com) if you have any matters.
 
 你可以在我的网站介绍页了解更多：[https://chiloven.top/about/](https://chiloven.top/about/)
