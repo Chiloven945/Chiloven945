@@ -7,6 +7,9 @@
 
 > [!NOTE]
 > 你好，有缘人。
+> 你可以叫我 Chiloven945。如有琐事请通过电子邮箱 [clovenbugle@outlook.com](mailto:clovenbugle@outlook.com) 联系我。
+> Hi.
+> You can call me Chiloven945. Contact me via email [clovenbugle@outlook.com](mailto:clovenbugle@outlook.com) if you have any matters.
 
 你可以在我的网站介绍页了解更多：[https://chiloven.top/about/](https://chiloven.top/about/)
 
