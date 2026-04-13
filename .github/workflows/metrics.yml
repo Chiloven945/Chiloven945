@@ -1,7 +1,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -67,6 +67,12 @@ jobs:
           plugin_followup: true
           plugin_followup_sections: user
           plugin_followup_indepth: true
+
+          # 💡 Coding habits and activity
+          plugin_habits: true
+          plugin_habits_from: 1000
+          plugin_habits_languages_limit: 0
+          plugin_habits_charts: true
 
           # 🎼 Music (Spotify)
           plugin_music: yes
