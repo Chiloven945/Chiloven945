@@ -35,4 +35,7 @@ You can know me more at the about page of my website: [https://chiloven.top/en/a
   </table>
 </div>
 
+---
+
+![Used before, maybe not skills...](https://skills.syvixor.com/api/icons?perline=15&i=java,kotlin,rust,vuejs,nuxtjs,javascript,typescript,html,css,csharp,python,fabricmc,forgemc,neoforge,papermc,velocity,markdown,sql,toml,yaml,xaml,powershell,bash,spring,springboot,jakartaee,nodejs,tauri,pinia,tailwindcss,chromium,mysql,sqlite,mermaid,gradle,apachemaven,npm,chocolatey,docker,adobeillustrator,adobephotoshop,adobepremierepro,intellijidea,webstorm,datagrip,rider,pycharm,fleet,visualstudio,visualstudiocode,eclipseide,git,gitbash,github,githubpages,githubactions,postman,prettier,cloudflare,figma,firefox,microsoftoffice,microsoftword,microsoftpowerpoint,microsoftexcel,blender,gimp,obs,vmix,vmware,canva,telegram,discord,windows)
 
