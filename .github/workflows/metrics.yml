@@ -63,11 +63,6 @@ jobs:
           base_skip: yes
           config_timezone: Asia/Chongqing
 
-          # 🎟️ Follow-up of issues and pull requests
-          plugin_followup: true
-          plugin_followup_sections: user
-          plugin_followup_indepth: true
-
           # 💡 Coding habits and activity
           plugin_habits: true
           plugin_habits_from: 1000
