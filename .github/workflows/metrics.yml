@@ -34,6 +34,9 @@ jobs:
 
           # 🈷️ Languages activity
           plugin_languages: yes
+          plugin_languages_limit: 16
+          plugin_languages_indepth: true
+          plugin_languages_details: bytes-size, percentage, lines
 
           # 🎭 Comment reactions
           plugin_reactions: yes
@@ -66,11 +69,6 @@ jobs:
           plugin_music_user: 31aagy6vodynowvbf5uzlpopjvwq
           plugin_music_mode: recent
           plugin_music_limit: 5
-
-          # 🗼 RSS
-          plugin_rss: yes
-          plugin_rss_source: https://chiloven.top/index.xml
-          plugin_rss_limit: 3
 
           # 🕹️ Steam
           plugin_steam: yes
