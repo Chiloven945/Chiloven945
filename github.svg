@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            426 issue comments
+                            427 issue comments
                         </div>
                     </section>
                     <section>
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 9.74mb of code in 6433 edited files across 616 commits</small>
+                <small>estimation from 9.82mb of code in 6515 edited files across 624 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.3503642483191" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="284.3503642483191" y="0" width="84.75557891782103" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="369.1059431661401" y="0" width="48.36095538719424" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="417.4668985533343" y="0" width="24.545536998148965" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="442.0124355514833" y="0" width="17.390374628932783" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.4028101804161" y="0" width="0.2649439791116631" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.66775415952776" y="0" width="0.21545731634655363" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.8832114758743" y="0" width="0.1167885241256584" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.69831923414023" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="288.69831923414023" y="0" width="82.65757603637543" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="371.35589527051565" y="0" width="47.16384924919981" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="418.5197445197155" y="0" width="23.937947409283357" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="442.4576919289988" y="0" width="16.95990082948773" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.4175927584866" y="0" width="0.2583856706357469" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.6759784291223" y="0" width="0.2101239792813689" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.8861024084037" y="0" width="0.11389759159633212" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -239,9 +239,9 @@
                                 Java
                             </div>
                             <small>
-                                <div>54.3k lines</div>
-                                <div>1.87 MB</div>
-                                <div>61.82%</div>
+                                <div>56.3k lines</div>
+                                <div>1.94 MB</div>
+                                <div>62.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -254,7 +254,7 @@
                             <small>
                                 <div>17.1k lines</div>
                                 <div>556 kB</div>
-                                <div>18.43%</div>
+                                <div>17.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -267,7 +267,7 @@
                             <small>
                                 <div>9.33k lines</div>
                                 <div>317 kB</div>
-                                <div>10.51%</div>
+                                <div>10.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -280,7 +280,7 @@
                             <small>
                                 <div>6.01k lines</div>
                                 <div>161 kB</div>
-                                <div>5.34%</div>
+                                <div>5.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -293,7 +293,7 @@
                             <small>
                                 <div>3.92k lines</div>
                                 <div>114 kB</div>
-                                <div>3.78%</div>
+                                <div>3.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -332,7 +332,7 @@
                             <small>
                                 <div>30 lines</div>
                                 <div>767 bytes</div>
-                                <div>0.03%</div>
+                                <div>0.02%</div>
                             </small>
                         </div>
                     </section>
@@ -2459,35 +2459,35 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="155.6081081081081 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="153.53333333333333 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="51.12837837837838 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="50.446666666666665 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👎</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="48.90540540540541 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="48.25333333333333 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😄</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.668918918918919 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.58 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😕</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="66.6891891891892 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="70.18666666666667 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👀</text>
                                     </svg>
                                 </div>
@@ -2510,7 +2510,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 May 2026, 17:22:26 (timezone Asia/Chongqing) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 May 2026, 18:55:28 (timezone Asia/Chongqing) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
