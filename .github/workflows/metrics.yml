@@ -35,6 +35,7 @@ jobs:
           # 🈷️ Languages activity
           plugin_languages: yes
           plugin_languages_ignored: mcfunction
+          plugin_languages_skipped: KrisTHL181/Break-This-Repo
           plugin_languages_limit: 16
           plugin_languages_indepth: true
           plugin_languages_details: bytes-size, percentage, lines
