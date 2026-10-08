@@ -68,7 +68,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m10.41.24 4.711 2.774c.544.316.878.897.879 1.526v5.01a1.77 1.77 0 0 1-.88 1.53l-7.753 4.521-.002.001a1.769 1.769 0 0 1-1.774 0H5.59L.873 12.85A1.761 1.761 0 0 1 0 11.327V6.292c0-.304.078-.598.22-.855l.004-.005.01-.019c.15-.262.369-.486.64-.643L8.641.239a1.752 1.752 0 0 1 1.765 0l.002.001ZM9.397 1.534l-7.17 4.182 4.116 2.388a.27.27 0 0 0 .269 0l7.152-4.148-4.115-2.422a.252.252 0 0 0-.252 0Zm-7.768 10.02 4.1 2.393V9.474a1.807 1.807 0 0 1-.138-.072L1.5 7.029v4.298c0 .095.05.181.129.227Zm8.6.642 1.521-.887v-4.45l-1.521.882ZM7.365 9.402h.001c-.044.026-.09.049-.136.071v4.472l1.5-.875V8.61Zm5.885 1.032 1.115-.65h.002a.267.267 0 0 0 .133-.232V5.264l-1.25.725Z"/>
                             </svg>
-                            18 games
+                            19 games
                         </div>
                     </section>
                     <section>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            1.09k hours played
+                            1.10k hours played
                         </div>
                     </section>
                 </div>
@@ -300,15 +300,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAAAAYDBQcBAggE/8QAKxAAAQMCBAUEAgMAAAAAAAAAAQACAwQRBRIUUQYTITFBByNScSJhJEKB/8QAGQEBAQEBAQEAAAAAAAAAAAAAAAMEBQEC/8QAIhEAAQUBAAIDAAMAAAAAAAAAAQACAxESBAUTFTFxIaHx/9oADAMBAAIRAxEAPwDzPlKMpU2UoyldbKxaUOUoylTZSixTKaUOUoylTZSixTKaUOUoylTZSixTKaU2UgWHbwi24+19EcDpZmxsH5k9AtDofT+GobLC+cNrY4WzFhv2K+enph5QHSuq0ijfMaYLpZmBfwSfNtl25br3AOXay2fhjho4VA2VuHal8jiwtcAeg89UyvoI8z7YTGQR4jH4lYpPMckbs6v8Vo+KeQaDa/V5zEdx1Y7KEFjhYuaR/nhb9g9PDJE2J2FsklbI4uswdB4VVW8KVWI4ZOyromxmN7nx5GgEjZGeY5HOyXV+/wCL1/F0NBObWKlos4g/YQW9rdloVBwfQ11JFNDL700roImbvb3CSKumfS1c8EoIcx5b13BW2Dpi6L9RulCSN8VbFWrHB6t2GYnT1zIw58Tswa8XBTzUepmKz1UNQI6WPJ3IiALhsUmCE3v0Nkcg37A/pVn4YeggytuvpYou18V+s1aaqj1BxaeemmMsTeRIZGBjbAnYqyk9V8be3L/Gy/2tEOyQuR36W/SBBa/S1/O6gfDcZ+4wrDys7Tev6CdKX1KxWlic2JtOGuJIPLF7/ahwX1CxTCY8kUrJW8x0lpBmNz3H0lHT9zY/pGnu25H5bp8PxkV6x/KfKzg3pM+Ecc12Fn2GUz/ddMPbByl3e2yW+JMUfjuJSVssbGPcOoY2wuunIIta1/PRHI63Dei0Q8MMDi6NtEqMnc+UAPP0rnRnZGjOyZ9EdkaI7LboLh7KWNGdkaM7Jn0R2RojsmgmyljRnZGjOyZ9EfiuNEfimgnsKWdGdkaM7Jm0R+KNEfimgmyv/9k=" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAABgABBAgCAwUH/8QAMBAAAgEDAgUBBgYDAAAAAAAAAQIDAAQRBSEGEhMxQQcIFCJRYXEVIzJCkbEzQ8H/xAAZAQEBAQEBAQAAAAAAAAAAAAAABQECAwT/xAAdEQABBQEBAQEAAAAAAAAAAAAAAQIDBBESQSET/9oADAMBAAIRAxEAPwCq47fDTxoXcKgJZtsViP4rtcL27SaiLkKGS2+Nlx3oDjyRtE5Rxg1h/VStSm69/NIRjLHaov8AVANSpUqAkTQS25XqoY2I5gD5Fae/380Satbvd6NBfdNo2Qcp5vIFDfj71iLoF+3aiCx1n8P0a2W15PeVlYtkdx9aH6fb5HNbmgPZtNtOLLA3emRiPUkH5kI8/XFdbhX0Z1rWYlmu5o7JM7rIpyRXL9FbYXPGltzMyohBIB2P3q1M7tF8EeAq7kfSo9+6+s784yhVrNmTpx4HrnoJqEEDTabqEE3KP8QU5JoLsOFRofVu+JUMTQk8kB2JI81abWtXOl3GnhSGS4fkOPG1eR+09aIlnpN6oKvNIVbHYjFedK9LK9I5PfTqxVYxvbfDyY8Ri7vrgzIq27LyImNgBQvKQZXK9ixxWNI/araJhN3Rbb74rIoynDDlOMgHzTEbZPf5UWX2lHVUsH09Q0bAI8g7KQN81u4CV6Rai2m8Y2knRaRGYCQj9o+dWxYGZBPbEHqDfztVU5NRsOF7X3ewxLeH9T98Gtelep3E2luTbXaMpPZ1yKlXaLrTkez4ffWtJCnLizy6JLeajDcXR2Rv0H/leM+0nrwvr600qCNmgtDziUdiSMEUI6v6ucU6ovJJdRxpj/WnKf5qPpXE1rqls1jxCvMXJxOfGa4qUHwPSST7niHVi22VvDQGClmAUb+BSbY4AI+houHDkmn65bSKOtYM2eoOwFDus9L8TmEDAx5IyKrouk9UVCFudqJeH55JdFvoEdk6Kc4wcd6GsfI1vtbuS2SZYzjqrytWqYaHZmcliS3kmsac96agHpqVKgC3S7yeDhm5kaVmyCqhjnFCjHLFidzuakJeSrae7Ajp5zitA2z2rETAf//Z" alt="" />
                             <div class="about">
-                                <div class="name">Minecraft Dungeons II</div>
+                                <div class="name">The Farmer Was Replaced</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Adventure, RPG
+                                        Casual, Indie, Simulation, Strategy
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -316,7 +316,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        24 hours played
+                                        6 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -333,32 +333,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            32 / 32 achievements unlocked
+                                            16 / 59 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQP/xAAqEAACAgEDAgQGAwAAAAAAAAABAgMRBAAFITFRBhITcRQVIjJBYYGRof/EABgBAQADAQAAAAAAAAAAAAAAAAMBAgQF/8QAJREAAQIFAwQDAAAAAAAAAAAAAQIEAAMRITESQVETMmFxgZHw/9oADAMBAAIRAxEAPwCGxlFmp0xURT9JDC7v3vRW2bVkbhlNEGgjRF8zvQpffQeYtQsoktzwqqALP4GnLb9v+V44xo5AuTIPPKGX7iRfU9a1pmvKIIFAT+rCM2iZ8zStVANzX6tGJl7BkYaEr6E6MLRFvmrPGgY4I5YgZITGeWIU0L476o+DkxbRt6bpO3qZkkciY6IvEdcFq7gX/ep62ZPIDLjFXBJLfodq1DRzNnk6r+cYt62iztqlvnt52PowMiwYcizQkLMhtWPUHvzrbxvExyYhDluyKTTSxDzce3UH240vxRwiEOyCRrIeybXsdFelSWlUew0hZByAtZHxHVLZMqwMMPjfxEuTJBFs4HwOKgSMMOWWubHc8k/xpLiklEoZ0pQK4NcaOKg9RzrhPFEpBlYJz2v/ADTIaJl0IN4Ga06gSEqxzi+Y/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAQQD/8QAKRAAAQMDAgUDBQAAAAAAAAAAAQIDBAAFERIhFWGTstE0VHQUMUFxof/EABcBAAMBAAAAAAAAAAAAAAAAAAADBQH/xAAcEQACAgMBAQAAAAAAAAAAAAACAwABERIxBEH/2gAMAwEAAhEDEQA/AGm73K4i9T0onywkSHAAHlAAajzqNS7osevm9ZXmrmta79P+S53GmKDBabjhx0HTkDYZ3P2q+1oJDYsVVVIQAbCxUXHZd0QPXzesrzUtFyuJvUBK58tSTIbBBeUQRqHOj78dmVCEiPu2c4P4P6oBCa0X6B8lvuFCmg4Nh5dQNZLLFzrIWE3+fn3LncaaBNQ3ZXyXEoASMkjO2RttSvc7dceNT1ogSykyHCCGVEEajyrXFRc204+hmdFXilelIvVYZ7WIxLLUe2PsJQn0psaAVAlZUopAwEqJ3A5ZoDGWFX+Bj3LfcK1yWrkpASmBLAAwAGVbfyslrt1x41AWuBLCRIbJJZUABqHKt86RQrSr5UHMtp7Y+z//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Mystic Librarian</div>
+                                                <div>Power Farmer</div>
                                                 <div class="unlocked">8 Oct 2026</div>
                                             </div>
-                                            <div class="description">Collect all enchantment books</div>
+                                            <div class="description">Farm 1000 power.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwYABQIEB//EACsQAAIBAgUDAwMFAAAAAAAAAAECAwQRAAUGEiExQWETIlEUcYEyQpGx8P/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQb/xAAiEQACAgIBAwUAAAAAAAAAAAABAwACBBEhBRKBMVFxsfD/2gAMAwEAAhEDEQA/AOQwlJswtJHI8T8e3j22DcH5xtVFE0cdJJFAzRGOO92/S7Ats4t2AwfM9Qy0U/pikpZGMLne0fJY8KTb4uT98FznN6auoIoIaGOAwq0kjqx95ICiw7AfnnBqDH3HbwJaymqxFG1hszGmyiadANjOf3Eg7RtUnk9Li3OJS0SLRSJFPDMgkQW9XaWaxIPx27YaqHUTvkVTQVdLRLHCdxmVSjMCDdbA25t8XOE/Lp6ySnNTHH6MV9144goBv2sO2GAllLGp3J1eoqsBYgDz7y4qsvSrK/UaXWRrbUelJc+d/uufFsWEumFr8vbblTZSjxgM7vd4x1PUn+sNSVjrcbzt6Dab/wAj7YpNV6lnooTBSVVCxbhoipeQ/jkAeDzhFOTlWIWoAeIzk4+LYG7SfjcU6mkrJTU08TwtEzDa4PUC9u3nDRp/UlbkWnhkc+S0tfBIQGqPTJZVO4G3mzXwmLmcigbgOTe54weHOJFXgmxHW3H+64vAN9bczNPxUX4A/a19Gf/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABAMFAQIG/8QALBAAAQQBAgIKAgMAAAAAAAAAAQIDBAUABhESQRMUFSExYXSDstEkUUJUcf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBQL/xAAbEQABBQEBAAAAAAAAAAAAAAADAAECBBESMf/aAAwDAQACEQMRAD8A6+ysLE3c5CJ0sJEhwAB5WwHEe7xywhCzdSD16YfeV94N1sLv53qXPkct9VGzr9HSZFAx0s8bBIA3IH7Hnli3YjXF27eMpNYMjE531Glps2kk9dlj3lfeV9dPsRdQULnSykyGwQXlEEcQ88foh+4sdLMvajjdBNUFFSSNiACQCRy3G3dywqGwm/g7f2W/kMzTsxsi7zEbIHATnVE+8EX8/wBS58jkmrmrmfT9NSXztd1ZlxbjCWQtL44DuDz327hyHj44e0rrHtqetECWUmQ4QQyrYjiPliIzdo2B+DMHsq+sccMTQZndKESQ5O+LOl9T3tnHldt1seFHTsI4QTxlO38zuQT/AJ+u/I2XuO+g+pb+Qzd9qyUjhTAlgcgGVfWHq6+x7agLXAlpSJDZJLKtgOIeWCuFgw53UTEckmfF/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Track Record</div>
+                                                <div>Sunflowers</div>
                                                 <div class="unlocked">8 Oct 2026</div>
                                             </div>
-                                            <div class="description">Activate all minecart stations</div>
+                                            <div class="description">Plant a sunflower</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+30 others...</div>
+                                            <div class="description ellipsis">+14 others...</div>
                                         </div>
                                     </div>
                                 </div>
