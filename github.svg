@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 34.8mb of code in 21124 edited files across 1083 commits</small>
+                <small>estimation from 35.1mb of code in 21262 edited files across 1084 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.9469261376244" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="222.9469261376244" y="0" width="85.21629090461742" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="308.1632170422418" y="0" width="84.40021124488757" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="392.5634282871294" y="0" width="31.023616714327044" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="423.58704500145643" y="0" width="22.5346721798777" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="446.12171718133413" y="0" width="9.8720178633278" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="455.99373504466195" y="0" width="3.1370432055529003" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.1307782502148" y="0" width="0.8692217497851716" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.78015588882383" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="219.78015588882383" y="0" width="89.81886267246021" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="309.599018561284" y="0" width="83.20137848862072" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="392.80039704990475" y="0" width="30.86354304542618" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="423.66394009533093" y="0" width="22.56903744074652" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="446.2329775360775" y="0" width="9.817663073012593" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="456.05064060909007" y="0" width="3.092484192048429" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.1431248011385" y="0" width="0.8568751988615189" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -241,7 +241,7 @@
                             <small>
                                 <div>270k lines</div>
                                 <div>8.73 MB</div>
-                                <div>48.47%</div>
+                                <div>47.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -252,9 +252,9 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>114k lines</div>
-                                <div>3.34 MB</div>
-                                <div>18.53%</div>
+                                <div>121k lines</div>
+                                <div>3.57 MB</div>
+                                <div>19.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -267,7 +267,7 @@
                             <small>
                                 <div>114k lines</div>
                                 <div>3.31 MB</div>
-                                <div>18.35%</div>
+                                <div>18.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -278,9 +278,9 @@
                                 Vue
                             </div>
                             <small>
-                                <div>39.5k lines</div>
-                                <div>1.21 MB</div>
-                                <div>6.74%</div>
+                                <div>39.9k lines</div>
+                                <div>1.23 MB</div>
+                                <div>6.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -291,9 +291,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>27.3k lines</div>
-                                <div>882 kB</div>
-                                <div>4.9%</div>
+                                <div>27.7k lines</div>
+                                <div>896 kB</div>
+                                <div>4.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -304,9 +304,9 @@
                                 CSS
                             </div>
                             <small>
-                                <div>17.9k lines</div>
-                                <div>386 kB</div>
-                                <div>2.15%</div>
+                                <div>18k lines</div>
+                                <div>389 kB</div>
+                                <div>2.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -319,7 +319,7 @@
                             <small>
                                 <div>3.76k lines</div>
                                 <div>122 kB</div>
-                                <div>0.68%</div>
+                                <div>0.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2443,42 +2443,42 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="136.75301204819277 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="132.00617283950618 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="37.6566265060241 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="38.58641975308642 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👎</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="61.43975903614457 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.956790123456784 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😄</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.963855421686747 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.061728395061728 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😕</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="81.2590361445783 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="83.26543209876543 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👀</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.927710843373494 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.123456790123456 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                                     </svg>
                                 </div>
@@ -2495,7 +2495,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Oct 2026, 16:50:29 (timezone Asia/Chongqing) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Oct 2026, 00:17:44 (timezone Asia/Chongqing) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
