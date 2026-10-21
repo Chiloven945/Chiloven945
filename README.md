@@ -10,7 +10,7 @@
 >
 > This is Chiloven945. Contact me via email [clovenbugle@outlook.com](mailto:clovenbugle@outlook.com) if you have any matters.
 
-You can know me more at the about page of my website: [https://chiloven.top/en/about/](https://chiloven.top/en/about/)
+You can know me more at the about page of my website: [https://chiloven.top/en/about/](https://chiloven.top/)
 
 ---
 
