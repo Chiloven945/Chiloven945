@@ -38,6 +38,7 @@ jobs:
           plugin_languages_skipped: KrisTHL181/Break-This-Repo
           plugin_languages_limit: 16
           plugin_languages_indepth: true
+          plugin_languages_colors: "C#:#7355dd,python:#3572A5"
           plugin_languages_details: bytes-size, percentage, lines
 
           # 🎭 Comment reactions
